@@ -1,0 +1,281 @@
+Company,HospitalName,SalesLat,SalesLong,SalesAmt,Approver,HospitalLat,HospitalLong,distance
+Fedco,Spitalul de Pneumoftiziologie Sibiu,45.77448327,24.13496157,687532.21,Liam McPoyle,45.7948392,24.142917,2.346769425
+Fedco,Spitalul Clinic de Pediatrie Sibiu,45.77448327,24.13496157,687532.21,Liam McPoyle,45.792758,24.1476442,2.25824144
+Strawberries,Spitalul Clinic CF 2 Bucureşti,44.48470462,26.09473589,721377.72,Jennifer Peterson,44.4739934,26.0701496,2.286214863
+Edge Yard Service,Spitalul Clinic Judetean de Urgenta Constanta,44.17890164,28.63197348,3111777.85,Samit Patel,44.186097,28.6424088,1.154727902
+Edge Yard Service,Spitalul Clinic de Boli Infectioase Constanta,44.17890164,28.63197348,3111777.85,Samit Patel,44.1711725,28.6379845,0.984405762
+Edge Yard Service,Spital Clinic CF Constanta,44.17890164,28.63197348,3111777.85,Samit Patel,44.1655212,28.6341039,1.497977567
+Edge Yard Service,Spital Militar de Urgenta Dr Al Gafencu Constanta,44.17890164,28.63197348,3111777.85,Samit Patel,44.18966,28.6516915,1.976254161
+Edge Yard Service,SC Isis Medical Center srl Constanta,44.17890164,28.63197348,3111777.85,Samit Patel,44.182204,28.651067,1.566723094
+Edge Yard Service,SC Medical Analysis srl Constanta,44.17890164,28.63197348,3111777.85,Samit Patel,44.1825418,28.6449187,1.109157349
+Edge Yard Service,Centrul de Ingrijiri Paliative Casa Soarelui,44.17890164,28.63197348,3111777.85,Samit Patel,44.173979,28.6035325,2.33397799
+Hugh M. Woods,Spitalul Orasenesc Faurei,45.08603305,27.25228968,204765.5,John Johnson,45.0850324,27.2742866,1.73108508
+Reliable Investments,Spitalul Orasenesc Turceni,44.67366319,23.34749038,848173.52,Reginald McDuff,44.6810758,23.3700708,1.967087877
+Spaceage Stereo,Spitalul de Copii Botosani,47.74387696,26.61943713,2763153.08,Reginald McDuff,47.7474997,26.6482299,2.190885942
+Spaceage Stereo,"Spitalul de Recuperare ""Sf.Gheorghe"" Botosani",47.74387696,26.61943713,2763153.08,Reginald McDuff,47.7528066,26.6363675,1.609296008
+A. L. Price,SC Ecomed srl Vintilă Vodă,45.45207361,26.73769605,10365.89,Reginald McDuff,45.471673,26.7250302,2.393522343
+Sagebrush,Spitalul Cl.de Pneumoftiziologie Constanta,44.25112445,28.60698248,1475897.14,Bill Ponderosa,44.2309822,28.6073483,2.240608746
+Alexander's,Spitalul Judetean de Urgenta Calarasi,44.19580813,27.32948472,497876.3,John Johnson,44.1921997,27.327135,0.442954805
+Alexander's,Spitalul de Pneumoftiziologie Calarasi,44.19580813,27.32948472,497876.3,John Johnson,44.1936305,27.351663,1.785203937
+The Great Train Stores,Spitalul Municipal Medgidia,44.23982764,28.27896727,646725.34,John Johnson,44.2397168,28.2721406,0.544143359
+Twin Electronics,Spitalul Municipal Sighisoara,46.23767246,24.77494922,1864478.04,Samit Patel,46.2206339,24.7838743,2.0157863
+Sun Foods,Spitalul de Boli Pulmonare Breaza,45.16700255,25.68811585,1976747.58,John Johnson,45.1792281,25.6766588,1.629809213
+Golden Dawn,"Sp. Jud. de Urgenta""Dr.C-tin.Opris"" Baia Mare",47.64590097,23.53644677,10351.62,Reginald McDuff,47.6556683,23.5541883,1.71683532
+Golden Dawn,Spitalul de Pneumoftiziologie Baia Mare,47.64590097,23.53644677,10351.62,Reginald McDuff,47.6621349,23.5528874,2.185843506
+Golden Dawn,SC Che Cosmedica srl,47.64590097,23.53644677,10351.62,Reginald McDuff,47.655867,23.5496822,1.487391941
+Sunny Real Estate Investments,Spital General CF Drobeta Tr Severin,44.60731411,22.62830901,964208.67,Samit Patel,44.6235601,22.6415267,2.088215138
+Pender's Food Stores,Spitalul de Obstetrica-Ginecologie Ploiesti,44.94816813,26.06133317,2210724.48,Bill Ponderosa,44.93965,26.0404932,1.89461952
+Best Biz Survis,Spitalul Orasenesc Harsova,44.70632906,27.96008612,1353.22,Reginald McDuff,44.6912779,27.9522938,1.783901606
+Pro Property Maintenance,Spitalul de Psihiatrie Voila,45.16115872,25.72201868,18782.52,Agatha Poultry,45.1590873,25.7493405,2.15523564
+Marianne,Spitalul de Pneumoftiziologie Bacau,46.58074823,26.91366045,361860.46,Liam McPoyle,46.5641567,26.8999674,2.121795964
+Marianne,Sc Eldimed Materna srl Bacau,46.58074823,26.91366045,361860.46,Liam McPoyle,46.56407,26.89742,2.232382345
+Marianne,Psihomed Laboratory,46.58074823,26.91366045,361860.46,Liam McPoyle,46.57695,26.90825,0.591265766
+Marianne,SC Medical Prexis srl Bacau,46.58074823,26.91366045,361860.46,Liam McPoyle,46.5667237,26.9021133,1.792475844
+AJ Bayless,Spitalul de Boli Psihice Cronice Borsa,46.92396017,23.6299298,563903.63,Reginald McDuff,46.93328,23.6580231,2.372430474
+Pay'N Takeit,Spitalul de Psihiatrie Tulghes,46.96243537,25.78401436,1274331.29,Bill Ponderosa,46.9592614,25.7602502,1.838255101
+Hastings,Spitalul de Boli Pulmonare Breaza,45.19269857,25.66732794,1024137.63,Agatha Poultry,45.1792281,25.6766588,1.66734764
+Gamma Gas,Spitalul Orasenesc Gura Humorului,47.54744855,25.91699879,1874321.54,Jennifer Peterson,47.554906,25.8896217,2.216343064
+Omni Superstore,"Spitalul de Psihiatrie ""Sf.Maria"" Vedea",44.78525611,24.63174698,877636.42,Reginald McDuff,44.7797568,24.6253969,0.790884273
+Payless Cashways,Spitalul de Psihiatrie Poroschia,43.91943479,25.36968823,2272685.87,Samit Patel,43.9349005,25.3600348,1.886082272
+Vibrant Man,"Sp. Jud. de Urgenta""Dr.C-tin.Opris"" Baia Mare",47.64824101,23.57681489,183859.27,Reginald McDuff,47.6556683,23.5541883,1.885939095
+Vibrant Man,Spitalul de Pneumoftiziologie Baia Mare,47.64824101,23.57681489,183859.27,Reginald McDuff,47.6621349,23.5528874,2.366893274
+Vibrant Man,SC Che Cosmedica srl,47.64824101,23.57681489,183859.27,Reginald McDuff,47.655867,23.5496822,2.202856372
+York Steak House,Spitalul Orasenesc Harsova,44.69615947,27.93870037,393471.31,Liam McPoyle,44.6912779,27.9522938,1.204204331
+Enrich Garden Services,"Spitalul ""Dr.Karl Diel"" Jimbolia",45.76928434,20.69982338,724097.48,Samit Patel,45.7823598,20.7156004,1.900874508
+Team Uno,Spitalul de Psihiatrie Vadu Lat,44.33328609,25.68374141,213681.03,Bill Ponderosa,44.3415955,25.6743642,1.187761042
+Sanitary Grocery Stores,Spitalul de Psihiatrie Capalnas,45.98881474,22.21718726,458551.84,Bill Ponderosa,45.9747658,22.2241428,1.652553574
+Envirotecture Design,Spitalul Municipal Salonta,46.80325987,21.66685906,3182457.07,Reginald McDuff,46.8047777,21.6696615,0.272082021
+Electronic Geek,Spitalul Orasenesc Baia de Arama,44.9801884,22.80044985,1452868.4,Reginald McDuff,44.998098,22.8094625,2.114487884
+Crafts Canada,Spitalul de Psihiatrie Botosani,47.71580713,26.67170056,51412.69,Bill Ponderosa,47.7338983,26.6908385,2.469774602
+Crafts Canada,Spitalul de Pneumoftiziologie Botosani,47.71580713,26.67170056,51412.69,Bill Ponderosa,47.73475,26.6643529,2.177556019
+Bloom Brothers Furniture,Spitalul Municipal Toplita,46.91018212,25.36183088,42.18,Samit Patel,46.9222858,25.3562436,1.411631628
+Cut Above,Spitalul de Boli Pulmonare Breaza,45.15935949,25.68828357,3024277.81,Agatha Poultry,45.1792281,25.6766588,2.390613547
+Dubrow's Cafeteria,"Spitalul Orasenesc""Sf.Filoftea"" Mizil",45.00808357,26.41854828,160850.6,Liam McPoyle,44.9991175,26.4399518,1.95656076
+L' Fish,Spitalul Cl.de Pneumoftiziologie Constanta,44.25002645,28.59970947,256468.21,Reginald McDuff,44.2309822,28.6073483,2.204014925
+Chase Pitkin,Spitalul Judetean de Urgenta Bacau,46.54972805,26.88464002,777670.66,Bill Ponderosa,46.5562244,26.9106189,2.114448705
+Chase Pitkin,Spitalul de Pediatrie Bacau,46.54972805,26.88464002,777670.66,Bill Ponderosa,46.5580848,26.9109452,2.216403817
+Chase Pitkin,Spitalul de Pneumoftiziologie Bacau,46.54972805,26.88464002,777670.66,Bill Ponderosa,46.5641567,26.8999674,1.987467265
+Chase Pitkin,Sc Eldimed Materna srl Bacau,46.54972805,26.88464002,777670.66,Bill Ponderosa,46.56407,26.89742,1.870909421
+Chase Pitkin,SC Clinica Palade srl Bacau,46.54972805,26.88464002,777670.66,Bill Ponderosa,46.5556953,26.9146155,2.387
+Chase Pitkin,SC Medical Prexis srl Bacau,46.54972805,26.88464002,777670.66,Bill Ponderosa,46.5667237,26.9021133,2.315105565
+Miller & Rhoads,Spitalul de Psihiatrie Murgeni,46.20457939,28.02776767,49857.41,Bill Ponderosa,46.2055438,28.0185279,0.719319932
+Champion Auto,Spitalul Orasenesc Ineu*,46.42228947,21.86221478,524969.93,Reginald McDuff,46.422682,21.833825,2.177214238
+Dream Home Real Estate Service,Spitalul Municipal Sighisoara,46.23570049,24.78623871,2201225.36,Reginald McDuff,46.2206339,24.7838743,1.685701073
+Elek-Tek,Sp. de Psih. si pentru Masuri de Sig.Pad-Grajduri,46.98716305,27.55462556,1232091.01,Reginald McDuff,46.9736311,27.561311,1.588358874
+China Coast,Spitalul Orasenesc Sangeorgiu de Padure,46.42781694,24.85328753,1252.48,Reginald McDuff,46.4300052,24.8400982,1.040050145
+ManPower,Spitalul Municipal Toplita,46.90516058,25.3426569,743194.3,Reginald McDuff,46.9222858,25.3562436,2.166588189
+Wealthy Ideas,Spitalul Judetean de Urgenta Calarasi,44.18708333,27.3081827,11972.49,Reginald McDuff,44.1921997,27.327135,1.615138273
+Schaak Electronics,Spitalul Orasenesc Tg.Bujor,45.86773551,27.90380105,552197.84,Reginald McDuff,45.8693952,27.9126741,0.711581961
+Macroserve,Spitalul Clinic Judetean de Urgenta Constanta,44.1659506,28.62971308,2171051.1,Samit Patel,44.186097,28.6424088,2.459124655
+Macroserve,Spitalul Clinic de Boli Infectioase Constanta,44.1659506,28.62971308,2171051.1,Samit Patel,44.1711725,28.6379845,0.879131696
+Macroserve,Spital Clinic CF Constanta,44.1659506,28.62971308,2171051.1,Samit Patel,44.1655212,28.6341039,0.353576425
+Macroserve,SC Isis Medical Center srl Constanta,44.1659506,28.62971308,2171051.1,Samit Patel,44.182204,28.651067,2.484039288
+Macroserve,SC Medical Analysis srl Constanta,44.1659506,28.62971308,2171051.1,Samit Patel,44.1825418,28.6449187,2.208423821
+Macroserve,Centrul de Ingrijiri Paliative Casa Soarelui,44.1659506,28.62971308,2171051.1,Samit Patel,44.173979,28.6035325,2.271635672
+Modern Realty,Spitalul de Obstetrica-Ginecologie Braila,45.2817379,27.96692948,4656.87,Bill Ponderosa,45.2800933,27.9732938,0.530630508
+Modern Realty,Spitalul de Pneumoftiziologie Braila,45.2817379,27.96692948,4656.87,Bill Ponderosa,45.2696097,27.9696892,1.366202218
+Modern Realty,"Spitalul de Psihiatrie ""Sf.Pantelimon"" Braila",45.2817379,27.96692948,4656.87,Bill Ponderosa,45.2603928,27.9664179,2.374549613
+Gantos,Spitalul Orasenesc Brezoi,45.33706435,24.23584488,411937.81,Reginald McDuff,45.3423503,24.2456515,0.966202456
+Media Play,"Sp. Municipal ""Episcop N.Popovici"" Beius",46.67639041,22.36656197,121395.42,Jennifer Peterson,46.6630085,22.3508418,1.911858814
+Magna Gases,Spitalul Clinic de Copii Brasov,45.65257239,25.5786572,418702.33,Bill Ponderosa,45.6568234,25.586903,0.796601545
+Magna Gases,"Sp. Cl. de Obstetrica-Ginecologie ""Dr.I.A.Sbarcea""Brasov",45.65257239,25.5786572,418702.33,Bill Ponderosa,45.6406742,25.5850168,1.412806187
+Magna Gases,Spitalul de Boli Infectioase Brasov,45.65257239,25.5786572,418702.33,Bill Ponderosa,45.6566649,25.5975575,1.538346469
+Magna Gases,Spitalul de Psihiatrie si Neurologie Brasov,45.65257239,25.5786572,418702.33,Bill Ponderosa,45.6379828,25.5849024,1.693903568
+Magna Gases,Spitalul de Pneumoftiziologie Brasov,45.65257239,25.5786572,418702.33,Bill Ponderosa,45.6429853,25.5738108,1.130997753
+Magna Gases,Spital General CF Braşov,45.65257239,25.5786572,418702.33,Bill Ponderosa,45.6489047,25.6060723,2.170294302
+Magna Gases,Spital Militar de Urgenţă Regina Maria Braşov,45.65257239,25.5786572,418702.33,Bill Ponderosa,45.6447978,25.5999792,1.869890197
+Magna Gases,SC Clinicile ICCO Braşov,45.65257239,25.5786572,418702.33,Bill Ponderosa,45.6573803,25.5851697,0.736451784
+Checker Auto Parts,Spitalul de Pneumoftiziologie Campulung,45.29696582,25.06374295,3081062.6,Samit Patel,45.2776999,25.0474888,2.492018617
+Discount Furniture Showcase,Spitalul de Pneumftiziologie Drajna,45.23510275,26.02558656,154942.91,Reginald McDuff,45.2234124,26.0507228,2.359675939
+Nan Duskin,Spitalul Judetean de Urgenta Vaslui,46.67290384,27.73241683,792041.67,Jennifer Peterson,46.6554101,27.7358476,1.963369952
+Holly Tree Inn,Spitalul Orasenesc Baraolt,46.08216615,25.58171828,21357.4,Liam McPoyle,46.072482,25.591766,1.327150785
+Casa Bonita,Fundatia Acasa Zalau – Centrul de Recuperare Tratament si Ingrijire,47.15707968,23.0848961,19161.78,Agatha Poultry,47.1672956,23.0817482,1.160986204
+Brown Derby,Spitalul de Urgenta Judetean Braila,45.25860631,27.96742704,343542.65,Agatha Poultry,45.2527766,27.9409124,2.17499482
+Brown Derby,Spitalul de Obstetrica-Ginecologie Braila,45.25860631,27.96742704,343542.65,Agatha Poultry,45.2800933,27.9732938,2.433718849
+Brown Derby,Spitalul de Pneumoftiziologie Braila,45.25860631,27.96742704,343542.65,Agatha Poultry,45.2696097,27.9696892,1.2366521
+Brown Derby,"Spitalul de Psihiatrie ""Sf.Pantelimon"" Braila",45.25860631,27.96742704,343542.65,Agatha Poultry,45.2603928,27.9664179,0.213842531
+Integra Investment Plan,Spitalul Orasenesc Huedin,46.86671191,23.02126766,1660138.84,Samit Patel,46.8627109,23.0154832,0.625759228
+Monsource,Spit Penitenciar Colibaşi,44.95618947,24.91089627,3244537.18,Reginald McDuff,44.9447388,24.9184299,1.404955213
+Mervyn's,Spitalul de Psihiatrie Gura Ocnitei,44.95132148,25.56252895,488.14,Reginald McDuff,44.9575625,25.5518037,1.092984037
+Flagg Bros. Shoes,Spitalul Orasenesc Baia de Arama,44.98345522,22.8011566,2336308.18,Reginald McDuff,44.998098,22.8094625,1.754881431
+The Sample,Spitalul Orasenesc Segarcea,44.09751204,23.74339303,179212.92,Reginald McDuff,44.0996321,23.743502,0.235974515
+Honest Air Group,Spitalul Municipal Moreni,44.9785214,25.65855247,525386.11,Reginald McDuff,44.977631,25.6464882,0.954387033
+Star Interior Design,Spitalul de Pneumoftiziologie Leamna,44.30609942,23.71198223,63176.76,Bill Ponderosa,44.303857,23.7014734,0.872893427
+J. B. Van Sciver,Spitalul Orasenesc Oravita,45.02418312,21.67550852,103054.37,Agatha Poultry,45.0347516,21.6888126,1.573424565
+Adaptabiz,Spitalul Orasenesc Sinaia,45.33780636,25.56354556,349911.62,Reginald McDuff,45.3330214,25.5566007,0.760352043
+Town and Country Convenience Stores,"Sp. Cl. de Obstetrica-Ginecologie ""Dr.I.A.Sbarcea""Brasov",45.62302546,25.57445292,2229.65,Liam McPoyle,45.6406742,25.5850168,2.128083522
+Town and Country Convenience Stores,Spitalul de Psihiatrie si Neurologie Brasov,45.62302546,25.57445292,2229.65,Liam McPoyle,45.6379828,25.5849024,1.851622111
+Town and Country Convenience Stores,Spitalul de Pneumoftiziologie Brasov,45.62302546,25.57445292,2229.65,Liam McPoyle,45.6429853,25.5738108,2.220691341
+Alladin Realty,Spitalul Municipal de Urgenta Roman,46.92044379,26.93063985,1766110.89,Jennifer Peterson,46.928022,26.9309455,0.843242768
+Alladin Realty,Spitalul de Psihiatie,46.92044379,26.93063985,1766110.89,Jennifer Peterson,46.9367713,26.9408055,1.973450258
+Edge Garden Services,"Sp. Municipal ""Episcop N.Popovici"" Beius",46.65891861,22.37613307,1456282.58,Reginald McDuff,46.6630085,22.3508418,1.983570715
+Netstars Matrix Design,Spitalul de Psihiatrie Cronici Schitu Greci,44.31426061,24.55683076,1081480.54,Reginald McDuff,44.3189824,24.545041,1.075266493
+Monk Home Improvements,Spitalul de Psihiatrie Tulghes,46.95593162,25.74927498,1936091.59,Liam McPoyle,46.9592614,25.7602502,0.911832445
+Pearl Architectural Design,Spitalul Orasenesc Tg.Bujor,45.88113295,27.91953946,23594.33,Reginald McDuff,45.8693952,27.9126741,1.40968819
+Flipside Records,Spitalul Orasenesc Baia de Arama,44.98980703,22.81929193,1562922.94,Agatha Poultry,44.998098,22.8094625,1.20343909
+Littler's,Spitalul Municipal Motru,44.80366453,22.95701625,1740027.25,John Johnson,44.8037102,22.9740933,1.347737025
+Kenny Rogers Roasters,Spitalul Municipal Lugoj,45.68344548,21.9174064,225506.93,Liam McPoyle,45.6905419,21.8887066,2.365624061
+Burger Chef,Spitalul Municipal Falticeni,47.45044086,26.28845684,1242890.52,Reginald McDuff,47.4614585,26.295311,1.329496014
+Noodle Kidoodle,Spitalul de Pediatrie Pitesti,44.85253703,24.86652509,1567492.69,Bill Ponderosa,44.8508232,24.8651963,0.217528288
+Noodle Kidoodle,Sp. Militar de Urg.”Dr.Ion Jianu”Pitesti,44.85253703,24.86652509,1567492.69,Bill Ponderosa,44.8645781,24.8615359,1.395900391
+Noodle Kidoodle,SC Centrul Medical Sf Nicolae Piteşti,44.85253703,24.86652509,1567492.69,Bill Ponderosa,44.8387599,24.8850543,2.117460894
+John F. Lawhon,Spitalul Judetean de Urgenta Targoviste,44.93911509,25.4659761,2526535.25,Samit Patel,44.9227426,25.4500075,2.213065392
+L.L. Berger,Spitalul Orasenesc Brezoi,45.3286689,24.23270184,577016.01,Jennifer Peterson,45.3423503,24.2456515,1.827847
+Madcats Music & Books,Spitalul Judetean de Urgenta Slatina,44.44398566,24.3932192,461509.14,Bill Ponderosa,44.4321914,24.3670278,2.459227183
+Mikrotechnic,Spital Clinic CF Constanta,44.14342419,28.62908596,242032.36,Reginald McDuff,44.1655212,28.6341039,2.490254982
+Pro Star,Spitalul de Psihiatrie Cronici Dumbraveni,45.5361348,27.09061928,1963650.35,John Johnson,45.5498606,27.1064572,1.962947679
+Copeland Sports,Spitalul Municipal Turnu Magurele,43.74563332,24.87681023,2977538.51,Agatha Poultry,43.7438942,24.8686195,0.68600825
+Mr. D's IGA,Spitalul Judetean de Urgenta Slatina,44.43376181,24.33967812,5986.95,Reginald McDuff,44.4321914,24.3670278,2.1792839
+Bugle Boy,Spitalul Clinic Judetean de Urgenta Cluj-Napoca,46.7867565,23.58863288,107368.97,Jennifer Peterson,46.7658357,23.5832459,2.362922121
+Bugle Boy,Spitalul Cl.de Urgenta pentru Copii Cluj-Napoca,46.7867565,23.58863288,107368.97,Jennifer Peterson,46.766007,23.578371,2.436751049
+Bugle Boy,Instit. Cl. de Urologie si TranspL. Renal Cluj-N,46.7867565,23.58863288,107368.97,Jennifer Peterson,46.7665952,23.5845457,2.2640473
+Bugle Boy,"Instit. Inimii de urg.pt.Boli Cv ""N. Stancioiu""Cluj-N",46.7867565,23.58863288,107368.97,Jennifer Peterson,46.7667756,23.5833312,2.258867309
+Bugle Boy,Spitalul Clinic Municipal Cluj-Napoca,46.7867565,23.58863288,107368.97,Jennifer Peterson,46.7893483,23.6071765,1.441386523
+Bugle Boy,Spital Clinic Universitar CF Napoca,46.7867565,23.58863288,107368.97,Jennifer Peterson,46.7658102,23.587119,2.332705725
+Bugle Boy,Spitalul Militar de Urgenta Dr Constantin Papilian Cluj Napoca,46.7867565,23.58863288,107368.97,Jennifer Peterson,46.7691904,23.6028569,2.234183184
+Bugle Boy,SC Salvosan Ciobanca srl,46.7867565,23.58863288,107368.97,Jennifer Peterson,46.7651928,23.5852987,2.411936733
+Dun Rite Lawn Care,Spitalul Clinic Judetean de Urgenta Timisoara,45.71849589,21.23859936,355182.76,Reginald McDuff,45.7370071,21.2417975,2.073919078
+Frank's Nursery & Crafts,Sp. de Psih. si pentru Masuri de Sig.Pad-Grajduri,46.9892572,27.57419525,189767.92,John Johnson,46.9736311,27.561311,1.994213673
+Electronic Geek,"Spitalul Municipal ""Dr.Pop Mircea"" Marghita",47.34481427,22.36188936,393027.52,Jennifer Peterson,47.3477524,22.3380415,1.826777012
+Laura Ashley,Spitalul Judetean de Urgenta Calarasi,44.19438757,27.30489412,441489.92,Samit Patel,44.1921997,27.327135,1.790347167
+Weatherill's,Spitalul Orasenesc Buhusi,46.70706538,26.71311313,2312371,Bill Ponderosa,46.7201681,26.7083146,1.502656849
+White Hen Pantry,Spitalul Orasenesc Zimnicea,43.6522669,25.35670125,42157.17,Samit Patel,43.6503079,25.3646425,0.675242404
+STM Auto Parts,Spitalul Orasenesc Sinaia,45.33693335,25.5335098,21747.82,Reginald McDuff,45.3330214,25.5566007,1.857175124
+Chargepal,Spitalul Municipal Onesti,46.26033819,26.75374739,805453.24,Bill Ponderosa,46.2536379,26.7649546,1.139441082
+Cloth World,Spitalul Municipal Medgidia,44.2245415,28.25366895,153801.06,Liam McPoyle,44.2397168,28.2721406,2.239735945
+Crown Books,Spitalul de Pneumoftiziologie Izvoru,44.51362659,25.56389,20113.24,Reginald McDuff,44.511303,25.5370438,2.145008026
+Crown Auto Parts,Spitalul Municipal Campina,45.13458384,25.7224965,891197.56,John Johnson,45.1281164,25.7322552,1.050669106
+Soft Warehouse,SC Terapeutica SA-Spital Sf Gheorghe Chişineu Criş,46.52293161,21.54749386,865398.68,Liam McPoyle,46.5240484,21.5157602,2.431830402
+Wealth Zone Group,Spitalul Orasenesc Deta,45.40603814,21.21377034,2252218.22,Jennifer Peterson,45.3902564,21.2227934,1.891578955
+System Star,Spitalul de Obstetrica-Ginecologie Braila,45.27827015,27.96380151,262716.92,Jennifer Peterson,45.2800933,27.9732938,0.770113992
+System Star,Spitalul de Pneumoftiziologie Braila,45.27827015,27.96380151,262716.92,Jennifer Peterson,45.2696097,27.9696892,1.067864939
+System Star,"Spitalul de Psihiatrie ""Sf.Pantelimon"" Braila",45.27827015,27.96380151,262716.92,Jennifer Peterson,45.2603928,27.9664179,1.999014607
+Omni Realty,"Spitalul Clinic ""Dr.C.I.Parhon"" Iasi",47.20021265,27.55569628,544582.96,Samit Patel,47.180312,27.5679668,2.400010383
+Childs Restaurants,Spitalul (Leprozeria) Tichilesti,45.2718676,28.3388433,562518.62,John Johnson,45.2634848,28.3576495,1.742640448
+Titania,"Sp. Cl. Jud.de Urgenta ""Sf.Apostol Andrei""",45.42525558,27.98992398,1554545.62,Reginald McDuff,45.4198319,28.0188216,2.335281588
+Murray's Discount Auto Stores,Spitalul Clinic Judetean de Urgenta Cluj-Napoca,46.75540993,23.56702419,2183303.64,Samit Patel,46.7658357,23.5832459,1.694887354
+Murray's Discount Auto Stores,Spitalul Cl.de Urgenta pentru Copii Cluj-Napoca,46.75540993,23.56702419,2183303.64,Samit Patel,46.766007,23.578371,1.461811057
+Murray's Discount Auto Stores,Instit. Cl. de Urologie si TranspL. Renal Cluj-N,46.75540993,23.56702419,2183303.64,Samit Patel,46.7665952,23.5845457,1.824922025
+Murray's Discount Auto Stores,"Instit. Inimii de urg.pt.Boli Cv ""N. Stancioiu""Cluj-N",46.75540993,23.56702419,2183303.64,Samit Patel,46.7667756,23.5833312,1.772604992
+Murray's Discount Auto Stores,"Institutul Oncologic ""Prof.Dr.I. Chiricuta"" Cluj-N",46.75540993,23.56702419,2183303.64,Samit Patel,46.7634268,23.5874077,1.79098449
+Murray's Discount Auto Stores,"Sp. Clinic de Pneumoft. ""Leon Danielo"" Cluj-N",46.75540993,23.56702419,2183303.64,Samit Patel,46.7639388,23.5829619,1.541047592
+Murray's Discount Auto Stores,Spitalul Clinic de Boli Infectioase Cluj-Napoca,46.75540993,23.56702419,2183303.64,Samit Patel,46.7604263,23.5839605,1.406026755
+Murray's Discount Auto Stores,Spitalul Clinic de Recuperare Cluj-Napoca,46.75540993,23.56702419,2183303.64,Samit Patel,46.7548915,23.5823162,1.166761221
+Murray's Discount Auto Stores,Spital Clinic Universitar CF Napoca,46.75540993,23.56702419,2183303.64,Samit Patel,46.7658102,23.587119,1.919048054
+Murray's Discount Auto Stores,SC Salvosan Ciobanca srl,46.75540993,23.56702419,2183303.64,Samit Patel,46.7651928,23.5852987,1.767223479
+Dreamscape Garden Care,SC Centrul Medical Sf Nicolae Piteşti,44.83596772,24.89542294,8565.93,Agatha Poultry,44.8387599,24.8850543,0.874805367
+Brendle's,Centrul de Sanatate Miercurea Niraj,46.51972014,24.82325853,789851.83,Reginald McDuff,46.5341969,24.799102,2.451605836
+Jitney Jungle,Spitalul Municipal Medias,46.15987756,24.34154077,470587.59,Reginald McDuff,46.1639761,24.3563896,1.231449197
+Little Tavern,Spitalul Clinic de Copii Brasov,45.65494286,25.56465188,375538.1,Jennifer Peterson,45.6568234,25.586903,1.742533062
+Little Tavern,"Sp. Cl. de Obstetrica-Ginecologie ""Dr.I.A.Sbarcea""Brasov",45.65494286,25.56465188,375538.1,Jennifer Peterson,45.6406742,25.5850168,2.24196673
+Little Tavern,Spitalul de Psihiatrie si Neurologie Brasov,45.65494286,25.56465188,375538.1,Jennifer Peterson,45.6379828,25.5849024,2.457295525
+Little Tavern,Spitalul de Pneumoftiziologie Brasov,45.65494286,25.56465188,375538.1,Jennifer Peterson,45.6429853,25.5738108,1.508696839
+Little Tavern,SC Clinicile ICCO Braşov,45.65494286,25.56465188,375538.1,Jennifer Peterson,45.6573803,25.5851697,1.618043732
+Terra,Spitalul Municipal Campia Turzii,46.52933346,23.89089941,988321.28,Reginald McDuff,46.54673,23.88188,2.054387619
+Circuit City,SC Olanesti Riviera SA,45.20618264,24.20608849,255990.66,Reginald McDuff,45.1999982,24.2322385,2.161796804
+Monk Real Estate Service,"Spitalul ""Dr.Karl Diel"" Jimbolia",45.78180803,20.70687543,109650.65,Reginald McDuff,45.7823598,20.7156004,0.679577205
+Libera,Spitalul Orasenesc „Sf.Spiridon” Mioveni,44.97288361,24.95603753,996009.51,Jennifer Peterson,44.9691423,24.960527,0.545879804
+Pro Star,"Spitalul Municipal ""Anton Cincu""Tecuci",45.86072399,27.42739304,38349.45,Reginald McDuff,45.847375,27.436969,1.659817389
+Vibrant Man,Spitalul de Psihiatrie Cavnic,47.67135894,23.83625181,2225919.14,John Johnson,47.6618692,23.8391651,1.077864476
+Adaptas,Spitalul Municipal Turda,46.58946416,23.75572699,2508847.82,Bill Ponderosa,46.5793923,23.7773675,1.997974981
+Body Fate,"Sp. Jud. de Urgenta Suceava ""Sf.Ioan cel Nou""",47.65245102,26.24065853,2221299.44,Reginald McDuff,47.6389042,26.2402151,1.507176884
+The White Swan,S.C. Nova Vita Hospital,46.52481403,24.56550676,1611870.52,Reginald McDuff,46.5368187,24.5532949,1.629789786
+The White Swan,Centrul Medical Galenus SC Adriamed srl,46.52481403,24.56550676,1611870.52,Reginald McDuff,46.5362802,24.5558941,1.472304344
+The White Swan,SC Centrul Medical Topmed srl,46.52481403,24.56550676,1611870.52,Reginald McDuff,46.536472,24.552729,1.624047608
+The Original House of Pies,Spitalul Municipal Lupeni,45.3571795,23.19003933,1001162.23,Jennifer Peterson,45.3549714,23.2179179,2.192816571
+Lindsley's Lumber,Spitalul Municipal Gheorghieni,46.70920822,25.6140407,828001.49,Jennifer Peterson,46.7234873,25.6022926,1.823521684
+AdventureSports!,Centrul de Sanatate Sovata,46.60256678,25.08471876,1338491.77,John Johnson,46.5937783,25.0712382,1.420234764
+Total Quality,Preventoriul TBC Ilisua,47.22797082,24.09370411,15061.64,Samit Patel,47.2198292,24.0905069,0.937243749
+Delchamps,Spitalul Orasenesc Valenii de Munte,45.19275156,26.01762927,4843.23,Bill Ponderosa,45.1756086,26.0350898,2.347281864
+Schucks Auto Supply,Spitalul de Pneumoftiziologie Scornicesti,44.5919663,24.52476058,1303.75,Reginald McDuff,44.5980645,24.5445714,1.70945575
+Sagebrush,Spitalul de Psihiatrie Murgeni,46.22418658,28.0366574,240549.22,Reginald McDuff,46.2055438,28.0185279,2.499395503
+Dahlkemper's,Spitalul Judetean de Urgenta Ramnicu Valcea,45.13135791,24.38170387,144626.18,John Johnson,45.1188338,24.3625223,2.051026019
+Media Play,SC Terapeutica SA-Spital Sf Gheorghe Chişineu Criş,46.5140054,21.53126203,1115170.38,Samit Patel,46.5240484,21.5157602,1.629610753
+Infinite Wealth,Spitalul Municipal Campia Turzii,46.54358349,23.91225312,1801.48,Jennifer Peterson,46.54673,23.88188,2.349812904
+Planet Pizza,Spitalul Orasenesc Sannicolau Mare,46.05550768,20.61796495,1165883.71,Agatha Poultry,46.0681538,20.6361536,1.987276582
+Body Fate,Spitalul Municipal Lupeni,45.34550462,23.1934217,1744737.48,John Johnson,45.3549714,23.2179179,2.185273751
+STM Auto Parts,"Spitalul Municipal ""Dr.E.Nicoara"" Reghin",46.7637238,24.70824596,824952.14,Reginald McDuff,46.7820649,24.6951841,2.269814154
+Integra Wealth,Spitalul Judetean de Urgenta Vaslui,46.63832184,27.7493394,867448.82,Jennifer Peterson,46.6554101,27.7358476,2.161965056
+Channel Home Centers,Spitalul Municipal Pascani,47.23567919,26.7521012,324153.38,Reginald McDuff,47.2438382,26.725395,2.211566159
+Checker Auto Parts,Spitalul Municipal Rm.Sarat,45.37865263,27.07682667,1174281.31,Liam McPoyle,45.3789255,27.052097,1.932359597
+Garden Guru,"Sp. Judetean de Urgenta ""Mavromati"" Botosani",47.74540335,26.65985765,296735.93,John Johnson,47.7408816,26.6613642,0.515422409
+Garden Guru,Spitalul de Obstetrica-Ginecologie Botosani,47.74540335,26.65985765,296735.93,John Johnson,47.7405148,26.6550809,0.65063187
+Garden Guru,Spitalul de Copii Botosani,47.74540335,26.65985765,296735.93,John Johnson,47.7474997,26.6482299,0.900384108
+Garden Guru,"Spitalul de Recuperare ""Sf.Gheorghe"" Botosani",47.74540335,26.65985765,296735.93,John Johnson,47.7528066,26.6363675,1.940209988
+Garden Guru,Spitalul de Pneumoftiziologie Botosani,47.74540335,26.65985765,296735.93,John Johnson,47.73475,26.6643529,1.231754751
+Avant Garde Appraisal Group,Spitalul Judetean de Urgenta Vaslui,46.64544496,27.75149535,222181.28,Reginald McDuff,46.6554101,27.7358476,1.629738718
+Magna Architectural Design,Spitalul Orasenesc Viseul de Sus,47.71682083,24.44802181,212037.03,Reginald McDuff,47.707494,24.4252058,1.998023284
+Knox Lumber,Spitalul Clinic de Urgenta Militar Dr St Odobleja Craiova,44.28651454,23.82635046,454275.38,Reginald McDuff,44.3024467,23.8183145,1.884080841
+Maxi-Tech,Spital Euromaterna Constanta,44.20764881,28.62241116,9195.39,Jennifer Peterson,44.201112,28.6136121,1.010396715
+Maxi-Tech,Centru Medical Medstar 2000 srl,44.20764881,28.62241116,9195.39,Jennifer Peterson,44.2027798,28.6456484,1.930346279
+Standard Food,Spitalul Judetean de Urgenta Slobozia,44.55835507,27.34105243,2120486.03,Reginald McDuff,44.5670607,27.3609272,1.848912458
+Intelacard,Spitalul Filisanilor - Filiasi,44.54672116,23.5281974,1411422.64,Reginald McDuff,44.5582961,23.5027638,2.391998004
+Pro Star Garden Management,"Institutul Nat. de Geriatrie si Geront. ""Ana Aslan"" Buc.",44.43659817,26.11851884,1768125.64,Reginald McDuff,44.4379269,26.0902584,2.249306265
+Pro Star Garden Management,"Instit.Nat. de Boli Infectioase ""Prof.Dr.Matei Bals""Buc.",44.43659817,26.11851884,1768125.64,Reginald McDuff,44.4552889,26.1139908,2.109831496
+Pro Star Garden Management,"Instit. Nat.de Diabet, N si Boli M""Prof.Dr.N. Paulescu""Buc",44.43659817,26.11851884,1768125.64,Reginald McDuff,44.4446117,26.1104072,1.099760953
+Pro Star Garden Management,Instit. National de Rec. Med. Fizica si Balneclimat. Buc.,44.43659817,26.11851884,1768125.64,Reginald McDuff,44.430885,26.0985787,1.70647825
+Pro Star Garden Management,"Spitalul Clinic de Nefrologie ""Dr.Carol Davila""",44.43659817,26.11851884,1768125.64,Reginald McDuff,44.4446754,26.0898208,2.449760354
+Pro Star Garden Management,"Centrul de Boli Reumatismale ""Dr. Ion Stoia""",44.43659817,26.11851884,1768125.64,Reginald McDuff,44.4409626,26.1054485,1.145928453
+Pro Star Garden Management,"Spitalul Clinic ""Dr.Ion Cantacuzino""",44.43659817,26.11851884,1768125.64,Reginald McDuff,44.4448177,26.1098911,1.142510704
+Pro Star Garden Management,"Spitalul Clinic ""Colentina""",44.43659817,26.11851884,1768125.64,Reginald McDuff,44.4537947,26.1135572,1.952924565
+Pro Star Garden Management,"Spitalul Cl. de Ortopedie si TBC Osteoarticular ""Foisor""",44.43659817,26.11851884,1768125.64,Reginald McDuff,44.4406556,26.1212603,0.501079861
+Pro Star Garden Management,"Spitalul Clinic ""Coltea""",44.43659817,26.11851884,1768125.64,Reginald McDuff,44.4345144,26.1038069,1.191223206
+Pro Star Garden Management,Spitalul Clinic de Urgenta Bucuresti,44.43659817,26.11851884,1768125.64,Reginald McDuff,44.4537338,26.1011646,2.35200705
+Pro Star Garden Management,Spitalul Clinic de Urgente Oftalmologice,44.43659817,26.11851884,1768125.64,Reginald McDuff,44.445895,26.1001214,1.789952017
+Pro Star Garden Management,"Spitalul de Pneumoftiziologie ""Sf.Stefan""",44.43659817,26.11851884,1768125.64,Reginald McDuff,44.4537516,26.1057934,2.159052696
+Pro Star Garden Management,"Spitalul Clinic de Copii ""Dr.V.Gomoiu""",44.43659817,26.11851884,1768125.64,Reginald McDuff,44.4330325,26.1422323,1.924709173
+Pro Star Garden Management,Euroclinic Hospital,44.43659817,26.11851884,1768125.64,Reginald McDuff,44.4546448,26.1009931,2.442573607
+Pro Star Garden Management,Clinic a de Angiografie si Terapia Endovasculara Hemodinamic srl,44.43659817,26.11851884,1768125.64,Reginald McDuff,44.4280271,26.1398971,1.947336118
+Pro Star Garden Management,Spital Oftalmologie Euroeye srl,44.43659817,26.11851884,1768125.64,Reginald McDuff,44.4458988,26.0999846,1.79907348
+Pro Star Garden Management,Spitalul Prof Dr Constantin Angelescu,44.43659817,26.11851884,1768125.64,Reginald McDuff,44.4280127,26.1130965,1.047584739
+Pro Star Garden Management,Centrul de Sanatate RATB,44.43659817,26.11851884,1768125.64,Reginald McDuff,44.4541831,26.115826,1.967622877
+Pro Star Garden Management,Spital de Urgenta al MAI Prof D Gerota,44.43659817,26.11851884,1768125.64,Reginald McDuff,44.4404542,26.1235662,0.587063063
+Pro Star Garden Management,SC Prain srl,44.43659817,26.11851884,1768125.64,Reginald McDuff,44.4486828,26.1001482,1.983702942
+d.e.m.o.,Spitalul Orasenesc Harlau,47.43847923,26.89629509,2937697,Jennifer Peterson,47.4303518,26.8998206,0.942125646
+G.I. Joe's,Spitalul de Psihiatrie Nucet,46.48597203,22.56554125,198796.76,Samit Patel,46.4878797,22.5524201,1.027028645
+Singer Lumber,Spitalul Municipal Calafat,43.97755524,22.93648837,1793171,Reginald McDuff,43.9941705,22.9446352,1.959750992
+Fresh Start,Spitalul General CF Simeria,45.86264801,23.01371447,189.71,Samit Patel,45.8479508,23.0148786,1.637253854
+Mostow Co.,Spitalul Orasenesc Faurei,45.08888189,27.27485157,253747.34,Bill Ponderosa,45.0850324,27.2742866,0.430470727
+Total Sources,Spitalul Judetean de Urgenta Alexandria,43.96106568,25.31426493,3909.51,Jennifer Peterson,43.9796366,25.3143922,2.06566546
+Solution Bridge,"Spitalul Municipal ""Anton Cincu""Tecuci",45.8535023,27.4592949,734589.15,John Johnson,45.847375,27.436969,1.859133998
+Wealth Zone Group,Sc Malp srl Moinesti,46.45224927,26.468067,312506.82,Jennifer Peterson,46.4671831,26.4840232,2.062513733
+Handy Dan,"Spitalul Municipal ""Dr.E.Nicoara"" Reghin",46.78897416,24.67850519,21407.53,Reginald McDuff,46.7820649,24.6951841,1.484688455
+Our Own Hardware,Spitalul Orasenesc Macin,45.26014313,28.1125874,3150551.37,Reginald McDuff,45.2454831,28.1352996,2.412847617
+Signa Air,"Spitalul Municipal""Costache Nicolescu"" Dragasani",44.67715929,24.25203198,25679.68,Reginald McDuff,44.6592848,24.2583888,2.050783625
+Griff's Hamburgers,Spitalul Orasenesc Zimnicea,43.65393235,25.33639797,2260575.26,Reginald McDuff,43.6503079,25.3646425,2.308584638
+System Star,Spitalul Orasenesc Campeni,46.36851141,23.03502448,482735.38,Jennifer Peterson,46.3624373,23.0419363,0.859017983
+System Star,Spitalul de Boli Cronice Campeni,46.36851141,23.03502448,482735.38,Jennifer Peterson,46.3657495,23.04543,0.855696624
+Ideal Garden Maintenance,Spitalul de Boli Psihice Cronice Borsa,46.91603473,23.64094895,2006925.18,Agatha Poultry,46.93328,23.6580231,2.315550678
+Omni Realty,Spitalul Judetean de Urgenta Miercurea Ciuc,46.34086621,25.81445906,517938.5,Reginald McDuff,46.3485614,25.8078583,0.994737832
+Sears Homelife,Spitalul de Urgenta Petrosani,45.39850039,23.36039469,247185.46,Samit Patel,45.4075904,23.376411,1.608357756
+Lee Wards,Spitalul Municipal Radauti,47.82376318,25.9010542,28397.15,John Johnson,47.8375923,25.9264523,2.441891312
+Plunkett Home Furnishings,Spitalul de Rec.Neuromotorie Dezna,46.39050647,22.25877061,43867.55,Liam McPoyle,46.41007,22.2438179,2.459817883
+Beefsteak Charlie's,Sp. de Psihiatrie si pentru Masuri de Sig. Stei,46.53831026,22.44790787,402413.54,Reginald McDuff,46.5473829,22.4654008,1.676134735
+Chandler's,"Spitalul Clinic de Urg. ""Prof.Dr.Nicolae Oblu"" Iasi",47.15443475,27.59754802,52410.16,Bill Ponderosa,47.161083,27.6072464,1.041586577
+Chandler's,"Spitalul Clinic de Urg. Pt. Copii""Sf.Maria"" Iasi",47.15443475,27.59754802,52410.16,Bill Ponderosa,47.1595902,27.6078972,0.970336311
+Chandler's,"Spitalul Cl.Obst-Ginec.""Elena Doamna""Iasi",47.15443475,27.59754802,52410.16,Bill Ponderosa,47.1606371,27.5978163,0.690184699
+Chandler's,"Sp. Clinic de Boli Infectioase ""Sf.Paraschiva"" Iasi",47.15443475,27.59754802,52410.16,Bill Ponderosa,47.170543,27.5843775,2.049970078
+Chandler's,Spitalul Clinic de Pneumoftiziologie Iasi,47.15443475,27.59754802,52410.16,Bill Ponderosa,47.1555419,27.6099213,0.943960417
+Chandler's,"Sp. Clinic Judetean de Urgenta ""Sf.Spiridon"" Iasi",47.15443475,27.59754802,52410.16,Bill Ponderosa,47.1685392,27.582665,1.930852871
+Chandler's,Spitalul Clinic de Recuperare Iasi,47.15443475,27.59754802,52410.16,Bill Ponderosa,47.1493752,27.5739282,1.873201979
+Infinity Investment Plan,Spitalul Judetean de Urgenta Alexandria,43.98103202,25.28561377,1594059.12,John Johnson,43.9796366,25.3143922,2.30860766
+Robert Hall,Spitalul de Urgenta Petrosani,45.38861765,23.39316187,1915288.38,Agatha Poultry,45.4075904,23.376411,2.482971557
+FamilyMart,Spitalul Municipal Curtea de Arges,45.16213519,24.67696553,629989.2,Agatha Poultry,45.1486796,24.6788108,1.503645423
+Earthworks Yard Maintenance,"Sp. Clinic Judetean de Urgenta ""Sf.Spiridon"" Iasi",47.15018057,27.56556343,3188207.39,Jennifer Peterson,47.1685392,27.582665,2.417194002
+Earthworks Yard Maintenance,Spitalul Clinic de Recuperare Iasi,47.15018057,27.56556343,3188207.39,Jennifer Peterson,47.1493752,27.5739282,0.639068124
+Earthworks Yard Maintenance,Spitalul Clinic CF Iasi,47.15018057,27.56556343,3188207.39,Jennifer Peterson,47.1710861,27.5748965,2.430092122
+Earthworks Yard Maintenance,Spitalul Arcadia Cardio,47.15018057,27.56556343,3188207.39,Jennifer Peterson,47.1577817,27.5622222,0.882437438
+Earthworks Yard Maintenance,Arcadia Hospital,47.15018057,27.56556343,3188207.39,Jennifer Peterson,47.1579273,27.5620549,0.901609314
+Isaly's,Memory Hospital Comuna Valea Lupului,47.18110448,27.51664425,1394730.93,Agatha Poultry,47.182111,27.5183715,0.172003629
+Reliable Guidance,SC Magura SA Tg Ocna,46.29029105,26.63025221,2936333.07,Jennifer Peterson,46.279301,26.6074118,2.139343477
+Garden Master,Spitalul Municipal Fagaras,45.82337141,24.95209312,122781.63,Reginald McDuff,45.8408005,24.9581956,1.995490978
+Parts America,SC Terapeutica SA-Spital Sf Gheorghe Chişineu Criş,46.51378827,21.50678439,197061.81,Reginald McDuff,46.5240484,21.5157602,1.332058212
+Coffey's Market,Spital Obstetrica Ginecologie Sancraieni,46.30947017,25.8381094,1498292.97,Jennifer Peterson,46.3131133,25.832131,0.612525307
+G.I. Joe's,Spitalul Orasenesc Horezu,45.14381181,23.97083799,530.87,Samit Patel,45.1431988,23.9917508,1.642112523
+Music Plus,Spitalul Municipal de Urgenta Moinesti,46.48694892,26.49840088,3065514.43,Jennifer Peterson,46.4764311,26.4882886,1.403041601
+Music Plus,Sc Malp srl Moinesti,46.48694892,26.49840088,3065514.43,Jennifer Peterson,46.4671831,26.4840232,2.458958618
+Independent Investors,Spitalul Orasenesc Tg.Carbunesti,44.97752162,23.49925676,3206727.12,Jennifer Peterson,44.9624796,23.5137762,2.026031831
+Stop and Shop,Spitalul Municipal Gheorghieni,46.73635519,25.59342421,2671251.27,Jennifer Peterson,46.7234873,25.6022926,1.582959549
+Franklin Simon,Spitalul (Leprozeria) Tichilesti,45.25332816,28.35023123,1041884.58,Samit Patel,45.2634848,28.3576495,1.270284205
+Price's Electronics,Spital Obstetrica Ginecologie Sancraieni,46.33022678,25.8185044,364367.58,Agatha Poultry,46.3131133,25.832131,2.172348993
+Price's Electronics,Spitalul Judetean de Urgenta Miercurea Ciuc,46.33022678,25.8185044,364367.58,Agatha Poultry,46.3485614,25.8078583,2.19711853
